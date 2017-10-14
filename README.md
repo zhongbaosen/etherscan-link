@@ -1,5 +1,7 @@
 # Etherscan Link Generator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MetaMask/etherscan-link.svg)](https://greenkeeper.io/)
+
 ## Installation
 
 `npm install etherscan-link -S`
