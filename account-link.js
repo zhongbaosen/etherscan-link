@@ -3,6 +3,6 @@ const prefixForNetwork = require('./prefix-for-network')
 module.exports = function (address, network) {
   const net = parseInt(network)
   const prefix = prefixForNetwork(network)
-  return `https://explorer.etherzero.org/addr/${address}`
+  return `https://etzscan.com/addr/${address}`
 }
 
